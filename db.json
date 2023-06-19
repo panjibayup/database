@@ -1,4 +1,13 @@
 {
+  "users": [
+    {
+      "email": "panji@gmail.com",
+      "password": "panjibayup",
+      "name": "panji",
+      "id": 1
+    }
+  ],
+
   "best-products": [
     {
       "id": 1,
